@@ -61,10 +61,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Mesh\Grid.cs" />
-    <None Include="Assets\Batching\OpaqueTexture.shader" />
-    <None Include="Assets\Batching\NewSurfaceShader 1.shader" />
-    <None Include="Assets\Batching\NewSurfaceShader.shader" />
+    <Compile Include="Assets\Mess\Mesh\Grid.cs" />
+    <None Include="Assets\Mess\Batching\OpaqueTexture.shader" />
+    <None Include="Assets\Mess\Batching\NewSurfaceShader 1.shader" />
+    <None Include="Assets\Mess\Batching\NewSurfaceShader.shader" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>F:/gitRepos/UnityRendering/UnityRendering/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
