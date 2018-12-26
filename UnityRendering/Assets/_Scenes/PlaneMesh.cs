@@ -21,7 +21,11 @@ public class PlaneMesh : MonoBehaviour
         };
 
         // init tris
-        m_tris = new int[] { 0,1,2 };
+        m_tris = new int[] 
+        {
+            0,3,1,
+            1,3,2
+        };
 
 
         m_mesh.vertices = m_verticePos;
