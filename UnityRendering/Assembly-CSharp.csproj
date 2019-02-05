@@ -66,6 +66,7 @@
     <Compile Include="Assets\Earth\Scripts\SphereScript.cs" />
     <Compile Include="Assets\Scripts\Mesh\Grid.cs" />
     <Compile Include="Assets\Scripts\Mesh\PlaneMesh.cs" />
+    <Compile Include="Assets\Scripts\Tools\ColorPicker.cs" />
     <Compile Include="Assets\Scripts\Tools\DrawMeshInfo.cs" />
     <None Include="Assets\Earth\Readme.txt" />
     <None Include="Assets\Earth\Materials\EarthShader.shader" />
